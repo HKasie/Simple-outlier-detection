@@ -37,10 +37,6 @@ CTR_train: this is the ctr file that was used for the analysis. It is a subset o
 
 Outlier detection of CTR: this is the notebook with the python codes for the project.
 
-## How To Run Project
-
-
-
 ## Reference
 [1] Pycaret Anomaly detection module - website: (https://pycaret.org/anomaly-detection/)
  Accessed: 30-10-2020

@@ -34,7 +34,8 @@ The raw data is a Kaggle competittion data named 'avazu-ctr-prediction'. the dat
 
 ## Explanation of Files:
 CTR_train: this is the ctr file that was used for the analysis. It is a subset of the avazu-ctr-prediction train.gz kaggle file as it is comprised primarily of columns of interest nmely 'hour' and 'click' respectively.
-Outlier detection jupyter notebook: this is the notebook with the python codes for the project.
+
+Outlier detection of CTR: this is the notebook with the python codes for the project.
 
 ## How To Run Project
 
